@@ -1,9 +1,12 @@
 # algorithms
 algorithms are written in c,c++,java,python and java script
 
-to write your own versions of algorithms download generator folder and run gen.bat
+## want to write your own versions of algorithms?
+to write your own versions of algorithms download [practice.zip](https://github.com/gangadharKorrapati/practice/archive/master.zip) and extract.
+run gen.bat
+generates practice set for you to start.
 
-algorithms implemented are
+## algorithms implemented
 
 InsertionSort
 
@@ -60,3 +63,7 @@ RabinKarp
 StringMatching
 
 KnuthMorrisPratt
+
+## License
+
+This project is licensed under the MIT License
